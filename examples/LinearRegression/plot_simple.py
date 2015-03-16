@@ -6,4 +6,4 @@ def plot(X,y):
 	pyplot.plot(X, y, 'rx', markersize=5)
 	pyplot.ylabel('Profit in $10,000s')
 	pyplot.xlabel('Population of City in 10,000s')
-	pyplot.show(block=True)
+#	pyplot.show(block=True)

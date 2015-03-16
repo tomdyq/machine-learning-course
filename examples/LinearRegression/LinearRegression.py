@@ -1,6 +1,6 @@
 #Starndard python modules
 import sys
-sys.path.append("../lib")
+sys.path.append("../../lib")
 #Import python modules for scientific
 from numpy import *
 import scipy
@@ -12,7 +12,7 @@ from plot_simple import plot
 
 #Import lib
 from computeCost import computeCost
-
+from gradientDescent import gradientDescent
 DATA_DIRECTORY_PATH = '/home/lichen/HarperMllib/data'
 
 def main():
@@ -29,14 +29,26 @@ def main():
 	
 	print 'Show 2D data'
 	plot(X, y)
+	pyplot.show(block=True)
 		
 	X = c_[ones((m,1)), X]
 	theta = zeros((2,1))
 	iterations = 1500
 	alpha = 0.01
 
-	cost = computeCost(X,y,theta)	
-	print cost	
+	cost = computeCost(X,y,theta)
+	theta = gradientDescent(X, y, theta, alpha, iterations)	
+	print cost
+	print 'theta = ', theta	
+	
+	print 'prediction1: population city in ', 3.5, 's'
+	predict1 = array([1, 3.5]).dot(theta)
+	print 'profit is ', predict1
+        
+	plot(X[:,1], y)
+	pyplot.plot(X[:, 1], X.dot(theta), 'b-')
+	pyplot.show(block=True)
+	
 if __name__ == '__main__':
 	main()
 

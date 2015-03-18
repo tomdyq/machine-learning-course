@@ -37,8 +37,9 @@ def main():
 	alpha = 0.01
 
 	cost = computeCost(X,y,theta)
-	theta = gradientDescent(X, y, theta, alpha, iterations)	
 	print cost
+	cost, theta = gradientDescent(X, y, theta, alpha, iterations)	
+	#print cost
 	print 'theta = ', theta	
 	
 	print 'prediction1: population city in ', 3.5, 's'

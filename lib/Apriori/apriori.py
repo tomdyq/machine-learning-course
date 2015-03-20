@@ -62,6 +62,34 @@ def apriori(dataSet, minSupport = 0.5):
 		L.append(Lk)
 		k += 1
 	return L, supportData
-	
+
+def calcConf(freqSet, H, supportData, br1, minConf=0.7):
+	prunedH = []
+	for conseq in H:
+		conf = supportData[freqSet] / supportData[freqSet - conseq]
+		if conf >= minConf:
+			print freqSet-conseq, '-->', conseq, 'conf:',conf
+			prunedH.append(conseq)
+	return prunedH
+
+def rulesFromConseq(freqSet, H, supportData, br1, minConf=0.7):
+	m = len(H[0])
+	if (len(freqSet) > (m+1)):
+		Hmp1 = aprioriGen(H, m+1)
+		Hmp1 = calcConf(freqSet, Hmp1, supportData, br1, minConf)
+		if (len(Hmp1) > 1):
+			rulesFromConseq(freqSet, Hmp1, supportData, br1, minConf)
+
+def generateRules(L, supportData, minConf=0.7):
+	bigRuleList = []
+	for i in range(1, len(L)):
+		for freqSet in L[i]:
+			H1 = [frozenset([item]) for item in freqSet]
+			if (i > 1):
+				rulesFromConseq(freqSet, H1, supportData, bigRuleList, minConf)
+			else:
+				calcConf(freqSet, H1, supportData, bigRuleList, minConf)
+	return bigRuleList
+					
 		
 

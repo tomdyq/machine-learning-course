@@ -15,7 +15,6 @@ def classify0(intX, dataSet, labels, k):
 	sqDistance = sqDiffMat.sum(axis=1) # sum each row
 	distances = sqDistance**0.5
 	sortedDistIndicies = distances.argsort() # indices of sorted array using quick sort
-	print sortedDistIndicies
 
 	classCount = {}
 	for i in range(k):
@@ -35,13 +34,4 @@ def autoNorm(dataSet):
 	normDataSet = normDataSet/tile(ranges, (m,1))
 	return normDataSet, ranges, minVals
 	
-#def main():
-#	data, label = createDataSet()
-#	print data
-#	print label
-#	
-#	print classify0([0,0], data, label, 3)
-
-#if __name__ == '__main__':
-#	main()
 

@@ -8,7 +8,7 @@ def createDataSet():
 	labels = ['A', 'A', 'B', 'B']
 	return dataSet, labels
 	
-def classify0(intX, dataSet, labels, k):
+def classify(intX, dataSet, labels, k):
 	dataSetSize = dataSet.shape[0]
 	diffMat = tile(intX, (dataSetSize,1)) - dataSet
 	sqDiffMat = diffMat**2

@@ -36,7 +36,7 @@ def main():
 	
 	print ""
 	for i in range(numTestVecs):
-		classfierResult = classify0(normMat[i,:], normMat[numTestVecs:m,:], datingLabels[numTestVecs:m],3) # k = 3, training by rest of selected example
+		classfierResult = classify(normMat[i,:], normMat[numTestVecs:m,:], datingLabels[numTestVecs:m],3) # k = 3, training by rest of selected example
 		print 'The classfier result = %d, the real answer is %d' % (classfierResult, datingLabels[i])
 		if (classfierResult != datingLabels[i]): errorCount += 1.0
 	print "the total error rate is %f" % (errorCount/float(numTestVecs))  # error rate = errorcount / vector number

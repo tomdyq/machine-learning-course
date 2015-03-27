@@ -1,6 +1,6 @@
 #Starndard python modules
 import sys
-sys.path.append("../../lib")
+sys.path.append("../../lib/LinearRegression")
 #Import python modules for scientific
 from numpy import *
 import scipy

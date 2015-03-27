@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+##########################################################################
+# Filename: logistic.py
+# Author: wanglichen; Datetime: 2015/03/27
+# Description:  implement logistic regression 
+# Version: 0.2
+#
+#########################################################################
 import sys
 sys.path.append("../../lib/LogisticRegression")
 import scipy.optimize, scipy.special
@@ -30,6 +37,8 @@ def plotBoundary( data, X, theta ):
 	plot_y = (-1./ theta[2]) * (theta[1] * plot_x + theta[0])
 	pyplot.plot( plot_x, plot_y )
 
+def predict(data, theta):
+	return data.dot(theta)
 
 def main():
 	set_printoptions(precision=6, linewidth=200)

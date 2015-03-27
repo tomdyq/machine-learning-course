@@ -1,4 +1,11 @@
-#Starndard python modules
+#!/usr/bin/env python
+##########################################################################
+# Filename: LinearRegression.py
+# Author: wanglichen; Datetime:2015/03/27
+# Description: implement linear regression and get to see it work
+# Version: 0.1
+#
+#########################################################################
 import sys
 sys.path.append("../../lib/LinearRegression")
 #Import python modules for scientific

@@ -1,4 +1,13 @@
 #!/usr/bin/env python
+#########################################################################################################
+# Filename: Logistic_reg.py
+# Author: wanglichen; Datetime: 2015/03/20
+# Description: implement regularized logistic regression
+# to predict whether microchips from a fabrication plant passes quality assur-
+# ance (QA).
+# Version: 0.1
+# 
+##########################################################################################################
 import sys
 sys.path.append("../../lib")
 import scipy.optimize, scipy.special

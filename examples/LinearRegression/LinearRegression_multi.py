@@ -1,6 +1,7 @@
 #Standard python modules
 import sys
-sys.path.append('../../lib')
+sys.path.append('../../lib/LinearRegression')
+sys.path.append('../../lib/LogisticRegression')
 #For scientific computing
 from numpy import *
 import scipy

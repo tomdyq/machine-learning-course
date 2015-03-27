@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import sys
-sys.path.append("../../lib")
+sys.path.append("../../lib/LogisticRegression")
 import scipy.optimize, scipy.special
 from numpy import *
 from matplotlib import pyplot, cm

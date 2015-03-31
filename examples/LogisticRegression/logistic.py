@@ -42,7 +42,7 @@ def predict(data, theta):
 
 def main():
 	set_printoptions(precision=6, linewidth=200)
-        data = genfromtxt("/home/lichen/HarperMllib/data/ex2data1.txt", delimiter = ',')
+        data = genfromtxt('data/ex2data1.txt', delimiter = ',')
 	m, n = shape(data)[0], shape(data)[1] - 1
 	X = c_[ones((m,1)), data[:, :n]]
 	y = data[:, n:n+1]

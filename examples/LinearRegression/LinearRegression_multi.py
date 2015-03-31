@@ -24,7 +24,7 @@ def main():
 	set_printoptions(precision=6, linewidth=200)
         
 	# loading data
-	data = genfromtxt("/home/lichen/HarperMllib/data/" + "ex1data2.txt", delimiter = ',')
+	data = genfromtxt('data/ex1data2.txt', delimiter = ',')
 	X = data[:, 0:2]
 	y = data[:, 2:3]
 	m = shape(X)[0]	

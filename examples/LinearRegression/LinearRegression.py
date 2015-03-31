@@ -20,7 +20,6 @@ from plot_simple import plot
 #Import lib
 from computeCost import computeCost
 from gradientDescent import gradientDescent
-DATA_DIRECTORY_PATH = '/home/lichen/HarperMllib/data'
 
 def main():
 	set_printoptions(precision=6, linewidth=200)
@@ -28,7 +27,7 @@ def main():
 	print A
 	
 	print 'load data from labeled txt file which delimited by ","'
-	data = genfromtxt(DATA_DIRECTORY_PATH + "/ex1data1.txt", delimiter = ',')
+	data = genfromtxt('data/ex1data1.txt', delimiter = ',')
 	X, y = data[:, 0], data[:, 1]
 	m = len(y)
 	y = y.reshape(m,1)

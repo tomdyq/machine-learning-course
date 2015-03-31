@@ -1,11 +1,16 @@
-#For scientific computing
-
+#!/usr/bin/env python
 from numpy import *
 import scipy
 #From lib
 from computeCost import computeCost
 from hypothesis import hypothesis
 
+####################################################################
+# FunctionName: gradientDescent
+# Author: wanglichen
+# Description: implement gradient descent, trying to optimize theta
+# 
+####################################################################
 def gradientDescent(X, y, theta, alpha, iterations):
 	grad = copy(theta)
 	m = len(y)

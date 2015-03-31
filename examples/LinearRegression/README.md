@@ -1,6 +1,8 @@
-In this example, it will implement linear regression and get to see it work on data. 
+LinearRegression.py : implement linear regression and get to see it work
+on data with one feature
 
-../data/ex1data1.txt - Dataset for linear regression with one variable
+$ ./LinearRegression.py
 
+LinearRegression_multi.py: implement linear regression with multi features
 
-$ python LinearRegression.py
+$ ./LinearRegression_multi.py

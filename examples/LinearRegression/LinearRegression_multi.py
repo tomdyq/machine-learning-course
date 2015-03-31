@@ -1,4 +1,11 @@
-#Standard python modules
+#!/usr/bin/env python
+#########################################################################
+# Filename: LinearRegression_multi.py
+# Author: wanglichen; Datetime: 2015/03/27
+# Description: implement linear regression with multi variable
+# Version: 0.2
+#
+########################################################################
 import sys
 sys.path.append('../../lib/LinearRegression')
 sys.path.append('../../lib/LogisticRegression')

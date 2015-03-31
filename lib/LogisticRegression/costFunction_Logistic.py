@@ -2,7 +2,12 @@
 
 from numpy import *
 from sigmoid import *
-
+########################################################
+# FunctionName: costFunction
+# Author: wanglichen
+# Description: cost function for logistic regression
+#
+#######################################################
 def costFunction(theta, X, y):
 	m = shape(X)[0]
 	hypo = sigmoid(X.dot(theta))

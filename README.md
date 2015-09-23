@@ -16,6 +16,7 @@
     - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * python学习
     - [Introduction to Python(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/Topic01_Python_and_IPython/IntroductionToPython.ipynb)
+    - [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
 
 # 第一课 回归(Regression)

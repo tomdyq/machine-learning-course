@@ -1,6 +1,10 @@
 ## machine-learning-course
 ==========================
 # 预备
+* 学习思路（每件事情都要经过以下三步）
+    - 第一步：去google、百度、bing进行搜索
+    - 第二步：搜索不到，问同学
+    - 第三步：还不能解决，问老师
 * python安装
     - [windows下python安装](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)
 * ipython notebook安装

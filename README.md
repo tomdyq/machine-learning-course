@@ -19,6 +19,9 @@
     - [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * 云主机
     - [轻松搞定你的IPython + Notebook 基于云的科学计算环境(含详细步骤)](http://my.oschina.net/u/1431433/blog/383540)
+* ubuntu安装学习
+    - [ubuntu安装]
+    - [linux命令]
 
 
 # 第一课 回归(Regression)

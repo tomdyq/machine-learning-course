@@ -15,7 +15,7 @@
     - [猴子都能懂的git入门](http://backlogtool.com/git-guide/cn/)
     - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * python学习
-*   - [Introduction to Python(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/Topic01_Python_and_IPython/IntroductionToPython.ipynb)
+    - [Introduction to Python(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/Topic01_Python_and_IPython/IntroductionToPython.ipynb)
 
 
 # 第一课 回归(Regression)

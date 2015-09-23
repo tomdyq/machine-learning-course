@@ -20,3 +20,6 @@
 
 
 # 第一课 回归(Regression)
+* [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)
+* [Andrew NG-note-Linear Regression](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/cs229-notes1.pdf)
+* [Andrew NG-exercise-ex1(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ex1.ipynb)

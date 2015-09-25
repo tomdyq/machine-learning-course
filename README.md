@@ -24,7 +24,7 @@
     - [ubuntu安装]
     - [linux命令]
 * 情感分析(sentiment analysis, opinion mining, etc.)
-    - []
+    - [Basic Sentiment Analysis with Python(blog)](https://github.com/fjavieralba/basic_sentiment_analysis)
 
 
 # 第一课 回归(Regression)

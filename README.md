@@ -23,6 +23,8 @@
 * ubuntu安装学习
     - [ubuntu安装]
     - [linux命令]
+* 情感分析(sentiment analysis, opinion mining, etc.)
+    - []
 
 
 # 第一课 回归(Regression)

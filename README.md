@@ -47,6 +47,11 @@
     - [用 RAKE 和 Maui 做 NLP 关键词提取的教程](http://python.jobbole.com/82230/)
 * 网站框架学习
     - [Django学习系列文章](http://www.cnblogs.com/btchenguang/category/408019.html)
+* 数据科学课程
+    - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
+* 机器学习教程
+    - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
+    - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
 
 # 第一课 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)

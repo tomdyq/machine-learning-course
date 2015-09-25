@@ -26,7 +26,10 @@
 * 情感分析(sentiment analysis, opinion mining, etc.)
     - [Basic Sentiment Analysis with Python(blog)](https://github.com/fjavieralba/basic_sentiment_analysis)
     - [Basic Sentiment Analysis with Python(ipynb)](https://github.com/fjavieralba/basic_sentiment_analysis.git)
-
+* 网络爬虫(crawler)
+    - [抓取网页的含义和URL基本构成](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
+    - [利用urlib2通过制定的url抓取网页内容](http://blog.csdn.net/pleasecallmewhy/article/details/8923067)
+    - [网络爬虫异常处理和HTTP状态码的分类](http://blog.csdn.net/pleasecallmewhy/article/details/8923725)
 
 # 第一课 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)

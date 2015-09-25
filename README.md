@@ -42,6 +42,8 @@
     - [爬虫框架Scrapy的第一个爬虫示例入门教程](http://blog.csdn.net/pleasecallmewhy/article/details/19642329)
 * 数据产品(Data Product)
     - [Building Data Products with Python: A Wine Review Website using Django and Bootstrap](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app)
+* 关键词提取
+    - [用 RAKE 和 Maui 做 NLP 关键词提取的教程](http://python.jobbole.com/82230/)
 
 # 第一课 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)

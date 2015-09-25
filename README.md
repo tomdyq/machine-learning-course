@@ -26,6 +26,7 @@
 * 情感分析(sentiment analysis, opinion mining, etc.)
     - [Basic Sentiment Analysis with Python(blog)](https://github.com/fjavieralba/basic_sentiment_analysis)
     - [Basic Sentiment Analysis with Python(ipynb)](https://github.com/fjavieralba/basic_sentiment_analysis.git)
+    - [Sentiment analysis using machine learning techniques](https://github.com/vivekn/sentiment)
 * 网络爬虫(crawler)
     - [抓取网页的含义和URL基本构成](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
     - [利用urlib2通过制定的url抓取网页内容](http://blog.csdn.net/pleasecallmewhy/article/details/8923067)
@@ -44,4 +45,4 @@
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)
 * [Andrew NG-note-Linear Regression](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/cs229-notes1.pdf)
 * [Andrew NG-exercise-ex1(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ex1.ipynb)
-* [Linear Regression-Scikit-learn(ipynb)(包含整个流程)](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb#scikit-learn-linear-reg)
+* [Linear Regression-Scikit-learn(ipynb)](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb#scikit-learn-linear-reg)

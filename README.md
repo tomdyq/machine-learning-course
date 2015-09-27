@@ -58,6 +58,7 @@
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
     - [机器学习资料大汇总](http://www.52ml.net/star?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
     - [CMU机器学习进阶课程](https://www.youtube.com/playlist?feature=autoshare-lk&list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ)
+    - [Implementing a Weighted Majority Rule Ensemble Classifier in scikit-learn](https://github.com/rasbt/mlxtend/blob/master/docs/examples/sklearn_ensemble_ensembleclassifier.ipynb)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

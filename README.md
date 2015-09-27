@@ -45,6 +45,7 @@
     - [爬虫框架Scrapy的第一个爬虫示例入门教程](http://blog.csdn.net/pleasecallmewhy/article/details/19642329)
 * 数据产品(Data Product)
     - [Building Data Products with Python: A Wine Review Website using Django and Bootstrap](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app)
+    - [A machine learning approach to classify music by mood based on song lyrics](https://github.com/rasbt/musicmood)
     - [使用Python构建Twitter分析应用](http://pythonforengineers.com/build-a-twitter-analytics-app-using-python/)
 * 关键词提取
     - [用 RAKE 和 Maui 做 NLP 关键词提取的教程](http://python.jobbole.com/82230/)

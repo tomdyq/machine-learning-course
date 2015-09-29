@@ -73,11 +73,7 @@
 * 数学
     - [Linear Algebra For Data Scientists](https://github.com/alexhwoods/alexhwoods.com/blob/master/Linear%20Algebra%20For%20Data%20Scientists/LinAlg.ipynb)
 
-Boxes below without the 'x' are unchecked HTML checkboxes.
-- [ ] First task to complete. 
-- [ ] Second task that needs done
-This checkbox below will be a checked HTML checkbox.
-- [x] This task has been completed
+
 
 # 第一课 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)

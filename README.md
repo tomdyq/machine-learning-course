@@ -63,6 +63,7 @@
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 * 数据科学课程
     - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
+    - [data science course material](https://github.com/datadave/data-science-course)
 * 机器学习教程
     - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)

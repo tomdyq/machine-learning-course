@@ -58,6 +58,7 @@
     - [用 RAKE 和 Maui 做 NLP 关键词提取的教程](http://python.jobbole.com/82230/)
 * 网站框架学习
     - [Django学习系列文章](http://www.cnblogs.com/btchenguang/category/408019.html)
+    - [discover-flask](https://github.com/realpython/discover-flask)
 * 数据科学课程
     - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
 * 机器学习教程

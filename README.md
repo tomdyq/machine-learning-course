@@ -10,8 +10,9 @@
     - [在Ubuntu中安装Python3](http://www.cnblogs.com/windinsky/archive/2012/09/25/2701851.html)
 * ipython notebook安装
     - [windows下ipython notebook搭建](http://demo.netfoucs.com/u012332571/article/details/38563897)
-* 科学计算包安装（numpy, scipy, matplotlib等）
+* 科学计算包安装使用（numpy, scipy, matplotlib等）
     - [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+    - [Scipy在线教程](http://www.scipy-lectures.org/)
 * git安装使用 
     - [猴子都能懂的git入门](http://backlogtool.com/git-guide/cn/)
     - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)

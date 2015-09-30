@@ -59,6 +59,7 @@
 * 网站框架学习
     - [Django学习系列文章](http://www.cnblogs.com/btchenguang/category/408019.html)
     - [discover-flask](https://github.com/realpython/discover-flask)
+    - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 * 数据科学课程
     - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
 * 机器学习教程

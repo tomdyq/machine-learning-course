@@ -67,6 +67,7 @@
     - [CMU机器学习进阶课程](https://www.youtube.com/playlist?feature=autoshare-lk&list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ)
     - [Implementing a Weighted Majority Rule Ensemble Classifier in scikit-learn](https://github.com/rasbt/mlxtend/blob/master/docs/examples/sklearn_ensemble_ensembleclassifier.ipynb)
     - [KNN（Scikitlearn+Pandas从头到尾）](https://github.com/alexhwoods/alexhwoods.com/blob/master/Machine%20Learning/KNN/KNN%20final.ipynb)
+    - [机器学习资料大汇总](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208644473&idx=2&sn=07aedaff0e25dbd6580069557e72df81&scene=0#rd)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

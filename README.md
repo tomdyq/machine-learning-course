@@ -73,6 +73,7 @@
     - [KNN（Scikitlearn+Pandas从头到尾）](https://github.com/alexhwoods/alexhwoods.com/blob/master/Machine%20Learning/KNN/KNN%20final.ipynb)
     - [机器学习资料大汇总](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208644473&idx=2&sn=07aedaff0e25dbd6580069557e72df81&scene=0#rd)
     - [pattern_classification](https://github.com/rasbt/pattern_classification)
+    - [Regularized Linear Regression with scikit-learn](http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

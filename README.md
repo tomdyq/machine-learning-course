@@ -89,3 +89,5 @@
 * [Andrew NG-note-Linear Regression](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/cs229-notes1.pdf)
 * [Andrew NG-exercise-ex1(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ex1.ipynb)
 * [Linear Regression-Scikit-learn(ipynb)](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb#scikit-learn-linear-reg)
+* [simple linear regression(ipynb)](https://github.com/ahartz1/linear-regression/blob/master/simple-linear-regression.ipynb)
+* [Introduction to Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)

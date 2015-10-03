@@ -25,6 +25,7 @@
     - [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
     - [实验楼(Python研发工程师)](https://www.shiyanlou.com/jobs/?jobid=1)
     - [高级正则表达式技术（Python版）](http://python.jobbole.com/65605/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [常用正规表达式](http://www.cnblogs.com/Ray-liang/p/4024557.html)
     - [Learn X in Y minutes](http://learnxinyminutes.com/)
     - [Practical Business Python](https://github.com/chris1610/pbpython)
     - [Python交互式教程](http://www.learnpython.org/)可直接在网页上执行输入好的程序，通过对比预期结果和实际执行结果进行学习

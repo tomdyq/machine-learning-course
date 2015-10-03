@@ -88,6 +88,7 @@
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)
 * 特征选择
     - [Introduction to Sequential Backward Selection](https://github.com/rasbt/mlxtend/blob/master/docs/examples/sklearn_sequential_feature_select_sbs.ipynb)(Iris例子，Wine例子等）
+    - [使用GBDT选取特征](http://www.letiantian.me/2015-03-31-use-gbdt-to-select-features/?utm_source=tuicool)
 * 数学
     - [Linear Algebra For Data Scientists](https://github.com/alexhwoods/alexhwoods.com/blob/master/Linear%20Algebra%20For%20Data%20Scientists/LinAlg.ipynb)
 

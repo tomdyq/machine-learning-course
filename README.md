@@ -68,6 +68,7 @@
     - [discover-flask](https://github.com/realpython/discover-flask)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
     - [Flask + Gunicorn + Nginx 部署](http://www.cnblogs.com/Ray-liang/p/4837850.html)
+    - [浅入浅出Flask框架](http://www.letiantian.me/topic-learn-flask/)
 * 数据科学课程
     - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
     - [data science course material](https://github.com/datadave/data-science-course)

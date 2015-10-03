@@ -15,6 +15,7 @@
     - [Scipy在线教程](http://www.scipy-lectures.org/)
 * 数据处理包(pandas)
     - [pandas-cookbook(ipynb)](https://github.com/jvns/pandas-cookbook)
+    - [ipython高级使用方法(ipynb)](https://github.com/ipython-books/cookbook-code)
 * git安装使用 
     - [猴子都能懂的git入门](http://backlogtool.com/git-guide/cn/)
     - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)

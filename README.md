@@ -50,6 +50,7 @@
     - [爬虫框架Scrapy的第一个爬虫示例入门教程](http://blog.csdn.net/pleasecallmewhy/article/details/19642329)
     - [爬虫结合SqlmapApi判断注入](http://tech.cnnetsec.com/825.html)
     - [Web Scraping Framework(grab)](https://github.com/lorien/grab)
+    - [Selenium定向爬取海量精美图片及搜索引擎杂谈](http://tech.cnnetsec.com/888.html)  可以了解Python简单爬取图片的一些思路和方法;学习Selenium自动、测试分析动态网页和正则表达式的区别和共同点;了解作者最近学习得比较多的搜索引擎和知识图谱的整体框架
 * 数据产品(Data Product)
     - [Building Data Products with Python: A Wine Review Website using Django and Bootstrap](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app)
     - [A machine learning approach to classify music by mood based on song lyrics](https://github.com/rasbt/musicmood)

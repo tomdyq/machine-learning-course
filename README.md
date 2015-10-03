@@ -106,3 +106,4 @@
 * [Linear Regression-Scikit-learn(ipynb)](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb#scikit-learn-linear-reg)
 * [simple linear regression(ipynb)](https://github.com/ahartz1/linear-regression/blob/master/simple-linear-regression.ipynb)
 * [Introduction to Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
+* [Linear Regression Example(ipynb) pycon2014](https://github.com/nyghtowl/PyCon_2014)

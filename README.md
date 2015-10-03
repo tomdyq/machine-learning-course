@@ -108,3 +108,4 @@
 * [Introduction to Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
 * [Linear Regression Example(ipynb) pycon2014](https://github.com/nyghtowl/PyCon_2014)
 * [Multiple Regression using Statsmodels](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/notebook/multiple_regression_in_python.ipynb)
+* [Regularized Linear Regression with Scikit-learn](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/notebook/regularized-linear-regression.ipynb)

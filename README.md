@@ -92,6 +92,8 @@
     - [使用GBDT选取特征](http://www.letiantian.me/2015-03-31-use-gbdt-to-select-features/?utm_source=tuicool)
 * 数学
     - [Linear Algebra For Data Scientists](https://github.com/alexhwoods/alexhwoods.com/blob/master/Linear%20Algebra%20For%20Data%20Scientists/LinAlg.ipynb)
+* kaggle
+    - [kaggle上的自行车出租数量预测](http://nbviewer.ipython.org/gist/whbzju/ff06fce9fd738dcf8096)
 
 
 

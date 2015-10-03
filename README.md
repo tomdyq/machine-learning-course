@@ -24,6 +24,7 @@
     - [高级正则表达式技术（Python版）](http://python.jobbole.com/65605/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
     - [Learn X in Y minutes](http://learnxinyminutes.com/)
     - [Practical Business Python](https://github.com/chris1610/pbpython)
+    - [Python交互式教程](http://www.learnpython.org/)可直接在网页上执行输入好的程序，通过对比预期结果和实际执行结果进行学习
 * 云主机
     - [轻松搞定你的IPython + Notebook 基于云的科学计算环境(含详细步骤)](http://my.oschina.net/u/1431433/blog/383540)
 * ubuntu安装学习

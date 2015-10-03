@@ -13,6 +13,9 @@
 * 科学计算包安装使用（numpy, scipy, matplotlib等）
     - [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
     - [Scipy在线教程](http://www.scipy-lectures.org/)
+* 数据处理包(pandas)
+    - [pandas-cookbook(ipynb)](https://github.com/jvns/pandas-cookbook)
+    - [ipython高级使用方法(ipynb)](https://github.com/ipython-books/cookbook-code)
 * git安装使用 
     - [猴子都能懂的git入门](http://backlogtool.com/git-guide/cn/)
     - [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -22,8 +25,10 @@
     - [廖雪峰python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
     - [实验楼(Python研发工程师)](https://www.shiyanlou.com/jobs/?jobid=1)
     - [高级正则表达式技术（Python版）](http://python.jobbole.com/65605/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [常用正规表达式](http://www.cnblogs.com/Ray-liang/p/4024557.html)
     - [Learn X in Y minutes](http://learnxinyminutes.com/)
     - [Practical Business Python](https://github.com/chris1610/pbpython)
+    - [Python交互式教程](http://www.learnpython.org/)可直接在网页上执行输入好的程序，通过对比预期结果和实际执行结果进行学习
 * 云主机
     - [轻松搞定你的IPython + Notebook 基于云的科学计算环境(含详细步骤)](http://my.oschina.net/u/1431433/blog/383540)
 * ubuntu安装学习
@@ -49,6 +54,7 @@
     - [爬虫框架Scrapy的第一个爬虫示例入门教程](http://blog.csdn.net/pleasecallmewhy/article/details/19642329)
     - [爬虫结合SqlmapApi判断注入](http://tech.cnnetsec.com/825.html)
     - [Web Scraping Framework(grab)](https://github.com/lorien/grab)
+    - [Selenium定向爬取海量精美图片及搜索引擎杂谈](http://tech.cnnetsec.com/888.html)  可以了解Python简单爬取图片的一些思路和方法;学习Selenium自动、测试分析动态网页和正则表达式的区别和共同点;了解作者最近学习得比较多的搜索引擎和知识图谱的整体框架
 * 数据产品(Data Product)
     - [Building Data Products with Python: A Wine Review Website using Django and Bootstrap](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app)
     - [A machine learning approach to classify music by mood based on song lyrics](https://github.com/rasbt/musicmood)
@@ -61,9 +67,12 @@
     - [Django学习系列文章](http://www.cnblogs.com/btchenguang/category/408019.html)
     - [discover-flask](https://github.com/realpython/discover-flask)
     - [Flask by Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
+    - [Flask + Gunicorn + Nginx 部署](http://www.cnblogs.com/Ray-liang/p/4837850.html)
+    - [浅入浅出Flask框架](http://www.letiantian.me/topic-learn-flask/)
 * 数据科学课程
     - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
     - [data science course material](https://github.com/datadave/data-science-course)
+    - [数据分析、机器学习与物联网](http://www.kuqin.com/shuoit/20150806/347449.html)
 * 机器学习教程
     - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
@@ -74,13 +83,19 @@
     - [机器学习资料大汇总](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208644473&idx=2&sn=07aedaff0e25dbd6580069557e72df81&scene=0#rd)
     - [pattern_classification](https://github.com/rasbt/pattern_classification)
     - [Regularized Linear Regression with scikit-learn](http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/)
+    - [实例详解机器学习如何解决问题](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208693972&idx=1&sn=96ad4367776df79ec64b6ffc16865cd4&scene=0#rd)
+    - [Classification using Pandas and Scikit-Learn(ipynb)](https://github.com/jseabold/depy)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)
 * 特征选择
     - [Introduction to Sequential Backward Selection](https://github.com/rasbt/mlxtend/blob/master/docs/examples/sklearn_sequential_feature_select_sbs.ipynb)(Iris例子，Wine例子等）
+    - [使用GBDT选取特征](http://www.letiantian.me/2015-03-31-use-gbdt-to-select-features/?utm_source=tuicool)
+    - [机器学习技巧之feature_hashing](http://www.wujiame.com/blog/2015/02/10/feature-hashing/)
 * 数学
     - [Linear Algebra For Data Scientists](https://github.com/alexhwoods/alexhwoods.com/blob/master/Linear%20Algebra%20For%20Data%20Scientists/LinAlg.ipynb)
+* kaggle
+    - [kaggle上的自行车出租数量预测](http://nbviewer.ipython.org/gist/whbzju/ff06fce9fd738dcf8096)
 
 
 
@@ -91,3 +106,5 @@
 * [Linear Regression-Scikit-learn(ipynb)](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb#scikit-learn-linear-reg)
 * [simple linear regression(ipynb)](https://github.com/ahartz1/linear-regression/blob/master/simple-linear-regression.ipynb)
 * [Introduction to Linear Regression](http://nbviewer.ipython.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
+* [Linear Regression Example(ipynb) pycon2014](https://github.com/nyghtowl/PyCon_2014)
+* [Multiple Regression using Statsmodels]()

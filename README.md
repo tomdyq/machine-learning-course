@@ -88,6 +88,7 @@
     - [实例详解机器学习如何解决问题](http://mp.weixin.qq.com/s?__biz=MjM5ODIzNDQ3Mw==&mid=208693972&idx=1&sn=96ad4367776df79ec64b6ffc16865cd4&scene=0#rd)
     - [Classification using Pandas and Scikit-Learn(ipynb)](https://github.com/jseabold/depy)
     - [Libraries for Top 10 Machine Learning Algorithms](http://www.carolam.com/b/machine-learning-libraries-by-algorithm-cm604/)
+    - [intro-to-machine-learning-by-python](https://github.com/rouseguy/intro-to-machine-learning)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

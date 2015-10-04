@@ -89,6 +89,7 @@
     - [Classification using Pandas and Scikit-Learn(ipynb)](https://github.com/jseabold/depy)
     - [Libraries for Top 10 Machine Learning Algorithms](http://www.carolam.com/b/machine-learning-libraries-by-algorithm-cm604/)
     - [intro-to-machine-learning-by-python](https://github.com/rouseguy/intro-to-machine-learning)
+    - [A Primer on Bayesian Methods for Multilevel Modeling(ipynb)](https://github.com/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

@@ -101,8 +101,8 @@
     - [kaggle上的自行车出租数量预测](http://nbviewer.ipython.org/gist/whbzju/ff06fce9fd738dcf8096)
 * 图数据库（Neo4j）
     - [Content Recommendation From Links Shared on Twitter Using Neo4j and Python](https://www.airpair.com/posts/review/55635b0ce7480311007471ee)
-
-
+* Deep Learning
+    - [Introduction to Deep Learning](https://github.com/rouseguy/intro2deeplearning)
 
 # 第一课 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)

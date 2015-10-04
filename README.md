@@ -104,6 +104,8 @@
     - [Content Recommendation From Links Shared on Twitter Using Neo4j and Python](https://www.airpair.com/posts/review/55635b0ce7480311007471ee)
 * Deep Learning
     - [Introduction to Deep Learning](https://github.com/rouseguy/intro2deeplearning)
+* 自然语言处理
+    - [Computational Statistics II Tutorial at SciPy 2015](https://github.com/rouseguy/scipy2015_tutorial/tree/master/notebooks)
 
 # 第一课 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)

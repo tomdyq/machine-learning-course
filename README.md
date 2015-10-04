@@ -96,6 +96,8 @@
     - [Linear Algebra For Data Scientists](https://github.com/alexhwoods/alexhwoods.com/blob/master/Linear%20Algebra%20For%20Data%20Scientists/LinAlg.ipynb)
 * kaggle
     - [kaggle上的自行车出租数量预测](http://nbviewer.ipython.org/gist/whbzju/ff06fce9fd738dcf8096)
+* 图数据库（Neo4j）
+    - [Content Recommendation From Links Shared on Twitter Using Neo4j and Python](https://www.airpair.com/posts/review/55635b0ce7480311007471ee)
 
 
 

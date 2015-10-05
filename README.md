@@ -59,6 +59,8 @@
     - [Web Scraping Framework(grab)](https://github.com/lorien/grab)
     - [Selenium定向爬取海量精美图片及搜索引擎杂谈](http://tech.cnnetsec.com/888.html)  可以了解Python简单爬取图片的一些思路和方法;学习Selenium自动、测试分析动态网页和正则表达式的区别和共同点;了解作者最近学习得比较多的搜索引擎和知识图谱的整体框架
     - [RoboBrowser: Your friendly neighborhood web scraper](https://github.com/jmcarp/robobrowser)
+    - [大数学堂-网络爬虫基础教学](http://www.largitdata.com/course_list/1)
+    - [大数学堂-网络爬虫实战教学](http://www.largitdata.com/course_list/8)
 * 数据产品(Data Product)
     - [Building Data Products with Python: A Wine Review Website using Django and Bootstrap](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app)
     - [A machine learning approach to classify music by mood based on song lyrics](https://github.com/rasbt/musicmood)

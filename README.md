@@ -128,4 +128,7 @@
 * [Regularized Linear Regression with Scikit-learn](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/notebook/regularized-linear-regression.ipynb)
 
 # 第二单元 分类(Classification)
-* [logistic_regression(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/unit2-classification/notebook/logistic_regression.ipynb)
+* Logistic Regression
+    - [logistic_regression(ipynb)](https://github.com/tomdyq/machine-learning-course/blob/master/unit2-classification/notebook/logistic_regression.ipynb)
+* 神经网络
+    - [Training Machine Learning Algorithms for Classification](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch02/ch02.ipynb)感知元，自适应感知元

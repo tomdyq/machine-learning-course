@@ -115,6 +115,7 @@
 
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)
+
 # 第一单元 回归(Regression)
 * [Andrew NG-ppt-Linear Regression with one variable](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/ppt-linear%20regression%20with%20multiple%20variables.pdf)
 * [Andrew NG-note-Linear Regression](https://github.com/tomdyq/machine-learning-course/blob/master/class1-regression/cs229-notes1.pdf)

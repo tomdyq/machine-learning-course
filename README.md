@@ -66,6 +66,7 @@
         -- Flipboard工程师撰文阐述如何利用流行的Python数据挖掘工具构建歌曲推荐系统，从数据获取到结果可视化，内容较全面。
 * 关键词提取
     - [用 RAKE 和 Maui 做 NLP 关键词提取的教程](http://python.jobbole.com/82230/)
+    - [Turn Your Twitter Timeline into a Word Cloud Using Python](http://nbviewer.ipython.org/github/rasbt/datacollect/blob/master/dataviz/twitter_cloud/twitter_wordcloud.ipynb)
 * 网站框架学习
     - [Django学习系列文章](http://www.cnblogs.com/btchenguang/category/408019.html)
     - [discover-flask](https://github.com/realpython/discover-flask)

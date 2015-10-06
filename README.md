@@ -85,7 +85,6 @@
     - [Introduction to Statistics using Python](https://github.com/rouseguy/intro2stats)
     - [Open Content for self-directed learning in data science](https://github.com/nborwankar/LearnDataScience)
     - [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
-
 * 机器学习教程
     - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
@@ -103,6 +102,7 @@
     - [A Primer on Bayesian Methods for Multilevel Modeling(ipynb)](https://github.com/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb)
     - [机器学习分析步骤stack(ipynb)](https://github.com/rouseguy/Analytics-Vidhya-Hackathon-3)
     - [机器学习分类器选择](http://suanfazu.com/t/topic/9402)
+    - [10 Scikit Learn Case Studies, Examples & Tutorials](http://www.baglom.com/b/10-scikit-learn-case-studies-examples-tutorials-cm572/)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

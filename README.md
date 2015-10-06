@@ -116,6 +116,7 @@
 * kaggle
     - [kaggle上的自行车出租数量预测](http://nbviewer.ipython.org/gist/whbzju/ff06fce9fd738dcf8096)
     - [kaggle机器学习竞赛冠军及优胜者的源代码汇总](http://suanfazu.com/t/kaggle-ji-qi-xue-xi-jing-sai-guan-jun-ji-you-sheng-zhe-de-yuan-dai-ma-hui-zong/230)
+    - [Kaggle入门——使用scikit-learn解决DigitRecognition问题](http://dataunion.org/16781.html)
 * 图数据库（Neo4j）
     - [Content Recommendation From Links Shared on Twitter Using Neo4j and Python](https://www.airpair.com/posts/review/55635b0ce7480311007471ee)
 * Deep Learning

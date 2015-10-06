@@ -85,6 +85,7 @@
     - [Introduction to Statistics using Python](https://github.com/rouseguy/intro2stats)
     - [Open Content for self-directed learning in data science](https://github.com/nborwankar/LearnDataScience)
     - [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
+    - [kaggle机器学习竞赛冠军及优胜者的源代码汇总](http://suanfazu.com/t/kaggle-ji-qi-xue-xi-jing-sai-guan-jun-ji-you-sheng-zhe-de-yuan-dai-ma-hui-zong/230)
 * 机器学习教程
     - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)

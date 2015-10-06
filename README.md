@@ -85,7 +85,7 @@
     - [Introduction to Statistics using Python](https://github.com/rouseguy/intro2stats)
     - [Open Content for self-directed learning in data science](https://github.com/nborwankar/LearnDataScience)
     - [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
-    - [kaggle机器学习竞赛冠军及优胜者的源代码汇总](http://suanfazu.com/t/kaggle-ji-qi-xue-xi-jing-sai-guan-jun-ji-you-sheng-zhe-de-yuan-dai-ma-hui-zong/230)
+
 * 机器学习教程
     - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
@@ -102,6 +102,7 @@
     - [intro-to-machine-learning-by-python](https://github.com/rouseguy/intro-to-machine-learning)
     - [A Primer on Bayesian Methods for Multilevel Modeling(ipynb)](https://github.com/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb)
     - [机器学习分析步骤stack(ipynb)](https://github.com/rouseguy/Analytics-Vidhya-Hackathon-3)
+    - [机器学习分类器选择](http://suanfazu.com/t/topic/9402)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)
@@ -113,6 +114,7 @@
     - [Linear Algebra For Data Scientists](https://github.com/alexhwoods/alexhwoods.com/blob/master/Linear%20Algebra%20For%20Data%20Scientists/LinAlg.ipynb)
 * kaggle
     - [kaggle上的自行车出租数量预测](http://nbviewer.ipython.org/gist/whbzju/ff06fce9fd738dcf8096)
+    - [kaggle机器学习竞赛冠军及优胜者的源代码汇总](http://suanfazu.com/t/kaggle-ji-qi-xue-xi-jing-sai-guan-jun-ji-you-sheng-zhe-de-yuan-dai-ma-hui-zong/230)
 * 图数据库（Neo4j）
     - [Content Recommendation From Links Shared on Twitter Using Neo4j and Python](https://www.airpair.com/posts/review/55635b0ce7480311007471ee)
 * Deep Learning

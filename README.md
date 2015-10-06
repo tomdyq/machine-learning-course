@@ -121,7 +121,8 @@
     - [Introduction to Deep Learning](https://github.com/rouseguy/intro2deeplearning)
 * 自然语言处理
     - [Computational Statistics II Tutorial at SciPy 2015](https://github.com/rouseguy/scipy2015_tutorial/tree/master/notebooks)
-
+* 可视化(vision)
+    - [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式
 

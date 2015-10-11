@@ -132,6 +132,9 @@
     - [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
 * 英文写作措辞
     - [英文写作常用句型](http://www.phrasebank.manchester.ac.uk/)
+* 主题分析
+    - [Generating a Word2Vec model from a block of Text using Gensim (Python)](https://codesachin.wordpress.com/2015/10/09/generating-a-word2vec-model-from-a-block-of-text-using-gensim-python/)
+    - [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式

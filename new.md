@@ -3,6 +3,8 @@
 This is a [Markdown][1] live editor built using [WMD][2] and other open source tools. I use it to write entries for my [posterous][3] blog and other places where Markdown is needed.
 
 ##Usage##
+* 解压缩
+    - [linux下 tar解压 gz解压 bz2等各种解压文件使用方法](http://alex09.iteye.com/blog/647128)
 
 When you press the *copy markdown* button you'll get the markdown markup wrapped in `markdown` and `p` tags, so you can send it as an email to post@posterous.com to create a new entry for your own blog.
 

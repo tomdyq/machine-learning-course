@@ -108,6 +108,7 @@
     - [10 Scikit Learn Case Studies, Examples & Tutorials](http://www.baglom.com/b/10-scikit-learn-case-studies-examples-tutorials-cm572/)
     - [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork)
     - [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
+    - [Python algorithms for regularized regression](https://github.com/klingebj?tab=repositories)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

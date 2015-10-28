@@ -108,6 +108,7 @@
     - [10 Scikit Learn Case Studies, Examples & Tutorials](http://www.baglom.com/b/10-scikit-learn-case-studies-examples-tutorials-cm572/)
     - [scikit-neuralnetwork](https://github.com/aigamedev/scikit-neuralnetwork)
     - [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
+    - [Python algorithms for regularized regression](https://github.com/klingebj?tab=repositories)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)
@@ -130,7 +131,11 @@
     - [Computational Statistics II Tutorial at SciPy 2015](https://github.com/rouseguy/scipy2015_tutorial/tree/master/notebooks)
 * 可视化(vision)
     - [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
-
+* 英文写作措辞
+    - [英文写作常用句型](http://www.phrasebank.manchester.ac.uk/)
+* 主题分析
+    - [Generating a Word2Vec model from a block of Text using Gensim (Python)](https://codesachin.wordpress.com/2015/10/09/generating-a-word2vec-model-from-a-block-of-text-using-gensim-python/)
+    - [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式

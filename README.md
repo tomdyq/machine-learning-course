@@ -31,6 +31,7 @@
     - [Python交互式教程](http://www.learnpython.org/)可直接在网页上执行输入好的程序，通过对比预期结果和实际执行结果进行学习
     - [Python Seminar Course at UC Berkeley (AY 250)](https://github.com/nborwankar/python-seminar)
     - [Materials for teaching the Python FUNdamentals workshop at UC Berkeley's D-lab](https://github.com/nborwankar/python-fundamentals)
+    - [Python开发指南：最佳实践精选](http://python.jobbole.com/82752/)
 
 * 云主机
     - [轻松搞定你的IPython + Notebook 基于云的科学计算环境(含详细步骤)](http://my.oschina.net/u/1431433/blog/383540)

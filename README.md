@@ -92,6 +92,7 @@
     - [用NFL数据分析](https://github.com/tanyaschlusser/office-nfl-pool/blob/master/Office%20Football%20Pool%20(2015).ipynb)
 * 机器学习教程
     - [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+    - [Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics](https://github.com/fonnesbeck/Bios8366)
     - [amueller/scipy_2015_sklearn_tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial)
     - [用Python十分钟构建一个预测模型](http://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
     - [数据科学的学习路径](http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)

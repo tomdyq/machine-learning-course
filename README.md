@@ -116,6 +116,9 @@
     - [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
     - [Python algorithms for regularized regression](https://github.com/klingebj?tab=repositories)
     - [run a multitude of classifiers on you data and get an AUC report](https://github.com/alvarouc/polyssifier)
+    - [TensorFlow Tutorial part 1](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.8ohpfo9gt)
+    - [TensorFlow Tutorial part 2](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92#.nb9lnhv0f)
+    - [TensorFlow的简化接口Scikit Flow](http://www.oschina.net/p/scikitflow)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

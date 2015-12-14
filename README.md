@@ -49,6 +49,7 @@
     - [Sentiment analysis using machine learning techniques](https://github.com/vivekn/sentiment)
     - [Sentiment Analysis](https://github.com/jadianes/data-science-your-way/tree/master/04-sentiment-analysis)
     - [ga-students/DAT_SF_11](https://github.com/ga-students/DAT_SF_11/tree/lab_dev)
+    - [sentiment analysis step by step](https://github.com/shekhargulati/sentiment-analysis-python)
 * 网络爬虫(crawler)
     - [抓取网页的含义和URL基本构成](http://blog.csdn.net/pleasecallmewhy/article/details/8922826)
     - [利用urlib2通过制定的url抓取网页内容](http://blog.csdn.net/pleasecallmewhy/article/details/8923067)

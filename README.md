@@ -153,6 +153,8 @@
 * 主题分析
     - [Generating a Word2Vec model from a block of Text using Gensim (Python)](https://codesachin.wordpress.com/2015/10/09/generating-a-word2vec-model-from-a-block-of-text-using-gensim-python/)
     - [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
+* Deep Learning
+    - [Why word2vec works](http://andyljones.tumblr.com/post/111299309808/why-word2vec-works)
 
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式

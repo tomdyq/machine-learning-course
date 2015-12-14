@@ -11,6 +11,7 @@
 * ipython notebook安装
     - [windows下ipython notebook搭建](http://demo.netfoucs.com/u012332571/article/details/38563897)
 * 科学计算包安装使用（numpy, scipy, matplotlib等）
+    - [在windows下使用VirtualEnv](http://www.cnblogs.com/chaosimple/p/4475958.html)
     - [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
     - [Scipy在线教程](http://www.scipy-lectures.org/)
 * 数据处理包(pandas)

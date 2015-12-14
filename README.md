@@ -36,6 +36,7 @@
     - [Materials for teaching the Python FUNdamentals workshop at UC Berkeley's D-lab](https://github.com/nborwankar/python-fundamentals)
     - [Python开发指南：最佳实践精选](http://python.jobbole.com/82752/)
     - [开始使用 Python 开发 Web 应用(学习步骤)](http://segmentfault.com/a/1190000000346419)
+    - [Python 开发工具集：关于文档、测试、调试、程序的优化和分析](http://segmentfault.com/a/1190000000410521)
 
 * 云主机
     - [轻松搞定你的IPython + Notebook 基于云的科学计算环境(含详细步骤)](http://my.oschina.net/u/1431433/blog/383540)

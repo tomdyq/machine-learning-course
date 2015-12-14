@@ -122,6 +122,8 @@
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)
+*数据预处理
+    - [关于使用sklearn进行数据预处理 —— 归一化/标准化/正则化](http://www.cnblogs.com/chaosimple/p/4153167.html)
 * 特征选择
     - [Introduction to Sequential Backward Selection](https://github.com/rasbt/mlxtend/blob/master/docs/examples/sklearn_sequential_feature_select_sbs.ipynb)(Iris例子，Wine例子等）
     - [使用GBDT选取特征](http://www.letiantian.me/2015-03-31-use-gbdt-to-select-features/?utm_source=tuicool)

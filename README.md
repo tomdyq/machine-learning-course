@@ -156,7 +156,8 @@
     - [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * Deep Learning
     - [Why word2vec works](http://andyljones.tumblr.com/post/111299309808/why-word2vec-works)
-
+* 推荐系统
+    - [混合推荐技术](http://segmentfault.com/a/1190000000370392)
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式
 

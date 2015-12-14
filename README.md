@@ -85,6 +85,7 @@
     - [Flask + Gunicorn + Nginx 部署](http://www.cnblogs.com/Ray-liang/p/4837850.html)
     - [浅入浅出Flask框架](http://www.letiantian.me/topic-learn-flask/)
     - [Creating a web app with Flask](http://tech.thrivehive.com/creating-a-web-app-with-flask/)
+    - [XPath 是一个好工具](http://segmentfault.com/a/1190000000418450)
 * 数据科学课程
     - [哈佛大学CS109 Data Science](http://cs109.github.io/2014/pages/schedule.html)
     - [data science course material](https://github.com/datadave/data-science-course)

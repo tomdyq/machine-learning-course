@@ -14,6 +14,7 @@
     - [在windows下使用VirtualEnv](http://www.cnblogs.com/chaosimple/p/4475958.html)
     - [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
     - [Scipy在线教程](http://www.scipy-lectures.org/)
+    - [Statsmodels Examples](http://statsmodels.sourceforge.net/devel/examples/index.html#regression)
 * 数据处理包(pandas)
     - [pandas-cookbook(ipynb)](https://github.com/jvns/pandas-cookbook)
     - [ipython高级使用方法(ipynb)](https://github.com/ipython-books/cookbook-code)
@@ -37,6 +38,9 @@
     - [Python开发指南：最佳实践精选](http://python.jobbole.com/82752/)
     - [开始使用 Python 开发 Web 应用(学习步骤)](http://segmentfault.com/a/1190000000346419)
     - [Python 开发工具集：关于文档、测试、调试、程序的优化和分析](http://segmentfault.com/a/1190000000410521)
+    - [Introduction to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    - [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+    - [Python codecademy](https://www.codecademy.com/learn/python)
 
 * 云主机
     - [轻松搞定你的IPython + Notebook 基于云的科学计算环境(含详细步骤)](http://my.oschina.net/u/1431433/blog/383540)

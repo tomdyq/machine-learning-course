@@ -107,6 +107,9 @@
     - [用NFL数据分析](https://github.com/tanyaschlusser/office-nfl-pool/blob/master/Office%20Football%20Pool%20(2015).ipynb)
     - [Comprehensive Guide to Learning Python for Data Analysis and Data Science](http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html)
     - [男女选秀弥漫与娱乐机器轰鸣 ——试对《人民日报》的娱乐话语进行文本挖掘与可视化 （2005-2016）](http://computational-communication.com/2016/04/xinzhi_rollinginthedeep/)
+    - [Knowledge Graph Embeddings scikit-kge](https://github.com/mnick/scikit-kge)
+    - [Python module to perform under sampling and over sampling with various techniques](https://github.com/fmfn/UnbalancedDataset)
+    - [XGBoost Feature Interactions & Importance](https://github.com/Far0n/xgbfi)
 * 机器学习教程
     - [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
     - [Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics](https://github.com/fonnesbeck/Bios8366)
@@ -135,6 +138,7 @@
     - [TensorFlow Tutorial part 1](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.8ohpfo9gt)
     - [TensorFlow Tutorial part 2](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92#.nb9lnhv0f)
     - [TensorFlow的简化接口Scikit Flow](http://www.oschina.net/p/scikitflow)
+    - [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/courses/kaggle-python-tutorial-on-machine-learning)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

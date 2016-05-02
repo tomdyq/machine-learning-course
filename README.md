@@ -140,6 +140,7 @@
     - [TensorFlow Tutorial part 2](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-2-9ffe47049c92#.nb9lnhv0f)
     - [TensorFlow的简化接口Scikit Flow](http://www.oschina.net/p/scikitflow)
     - [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/courses/kaggle-python-tutorial-on-machine-learning)
+    - [Natural Language Processing (NLP) Fundamentals: Hidden Markov Models (HMMs)](https://nadesnotes.wordpress.com/2016/04/20/natural-language-processing-nlp-fundamentals-hidden-markov-models-hmms/)
 * 信息检索
     - [TF-IDF](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/tf-idf.ipynb)
     - [Scoring using the Vector Space Model](https://github.com/jadianes/data-science-your-way/blob/master/apps/information-retrieval/Vector%20Space.ipynb)

@@ -180,6 +180,8 @@
     - [Why word2vec works](http://andyljones.tumblr.com/post/111299309808/why-word2vec-works)
 * 推荐系统
     - [混合推荐技术](http://segmentfault.com/a/1190000000370392)
+* 教育数据挖掘和学习分析
+    - [Hacking Education with Python - Data Mining Coursera for Popular Courses](http://adilmoujahid.com/posts/2015/03/coursera-data-mining/)
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式
 

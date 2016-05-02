@@ -81,6 +81,8 @@
     - [使用Python构建Twitter分析应用](http://pythonforengineers.com/build-a-twitter-analytics-app-using-python/)
     - [歌曲推荐系统实践：Pandas、SciPy和D3.js](http://www.benfrederickson.com/distance-metrics/)
         -- Flipboard工程师撰文阐述如何利用流行的Python数据挖掘工具构建歌曲推荐系统，从数据获取到结果可视化，内容较全面。
+    - [Python code for the free book A Programmer's Guide to Data Mining](https://github.com/zacharski/pg2dm-python)
+    - [Kaggle's competition for using Google's word2vec package for sentiment analysis](https://github.com/wendykan/DeepLearningMovies)
 * 关键词提取
     - [用 RAKE 和 Maui 做 NLP 关键词提取的教程](http://python.jobbole.com/82230/)
     - [Turn Your Twitter Timeline into a Word Cloud Using Python](http://nbviewer.ipython.org/github/rasbt/datacollect/blob/master/dataviz/twitter_cloud/twitter_wordcloud.ipynb)

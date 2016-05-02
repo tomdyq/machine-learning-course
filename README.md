@@ -183,6 +183,7 @@
 * 教育数据挖掘和学习分析
     - [Hacking Education with Python - Data Mining Coursera for Popular Courses](http://adilmoujahid.com/posts/2015/03/coursera-data-mining/)
     - [A machine learning pipeline for classifying MOOC discussion forums](https://github.com/akshayka/edxclassify)
+    - [KDD Cup 2010 Educational Data Mining Challenge](https://pslcdatashop.web.cmu.edu/KDDCup/)
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式
 

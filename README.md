@@ -104,6 +104,7 @@
     - [Bot or Not: an end-to-end data analysis in Python](http://www.erinshellman.com/bot-or-not/)
     - [用NFL数据分析](https://github.com/tanyaschlusser/office-nfl-pool/blob/master/Office%20Football%20Pool%20(2015).ipynb)
     - [Comprehensive Guide to Learning Python for Data Analysis and Data Science](http://www.kdnuggets.com/2016/04/datacamp-learning-python-data-analysis-data-science.html)
+    - [男女选秀弥漫与娱乐机器轰鸣 ——试对《人民日报》的娱乐话语进行文本挖掘与可视化 （2005-2016）](http://computational-communication.com/2016/04/xinzhi_rollinginthedeep/)
 * 机器学习教程
     - [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
     - [Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics](https://github.com/fonnesbeck/Bios8366)

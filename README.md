@@ -188,6 +188,10 @@
 * 博客
     - [寒小阳博客——七月讲师之一](http://blog.csdn.net/han_xiaoyang)
     - [寒小阳github](https://github.com/HanXiaoyang)
+* record linkage
+    - [Duplication of Record is solved using the Record Linkage library of Python](https://github.com/akko29/Record-Deduplication)
+    - [A toolkit for record linkage and deduplication written in Python - package](https://github.com/J535D165/recordlinkage)
+    - [Python Record Linkage Toolkit docs](https://recordlinkage.readthedocs.io/en/latest/about.html#what-is-record-linkage)
 
 # 准备
 * [Giving Computers the Ability to Learn from Data(ipynb)](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb) 介绍机器学习类型，图片方式

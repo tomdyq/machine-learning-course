@@ -78,6 +78,7 @@
     - [大数学堂-网络爬虫实战教学](http://www.largitdata.com/course_list/8)
 * 数据产品(Data Product)
     - [Building Data Products with Python: A Wine Review Website using Django and Bootstrap](https://www.codementor.io/python/tutorial/get-started-with-django-building-recommendation-review-app)
+    - [Tutorial to deploy Machine Learning models in Production as APIs (using Flask)](https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/)
     - [A machine learning approach to classify music by mood based on song lyrics](https://github.com/rasbt/musicmood)
     - [使用Python构建Twitter分析应用](http://pythonforengineers.com/build-a-twitter-analytics-app-using-python/)
     - [歌曲推荐系统实践：Pandas、SciPy和D3.js](http://www.benfrederickson.com/distance-metrics/)

@@ -114,6 +114,9 @@
     - [Knowledge Graph Embeddings scikit-kge](https://github.com/mnick/scikit-kge)
     - [Python module to perform under sampling and over sampling with various techniques](https://github.com/fmfn/UnbalancedDataset)
     - [XGBoost Feature Interactions & Importance](https://github.com/Far0n/xgbfi)
+* 深度学习教程
+    - [深度神经网络的训练过程（以向量化的角度）](https://www.jianshu.com/p/4786dbc87008)[code](https://github.com/WiseDoge/plume/blob/master/plume/network.py)
+
 * 机器学习教程
     - [justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
     - [Advanced Statistical Computing at Vanderbilt University's Department of Biostatistics](https://github.com/fonnesbeck/Bios8366)
